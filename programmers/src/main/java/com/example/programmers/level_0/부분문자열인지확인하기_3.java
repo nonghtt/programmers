@@ -1,6 +1,6 @@
 package com.example.programmers.level_0;
 
-public class 부분문자열인지확인하기 {
+public class 부분문자열인지확인하기_3 {
 
 	public static void main(String[] args) {
 		String my_string = "banana";

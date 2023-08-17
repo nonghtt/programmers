@@ -1,6 +1,6 @@
 package com.example.programmers.level_0;
 
-public class 정수부분 {
+public class 정수부분_5 {
 
 	public static void main(String[] args) {
 		int answer=0;

@@ -1,6 +1,6 @@
 package com.example.programmers.level_0;
 
-public class 문자열찾기 {
+public class 문자열찾기_2 {
 
 	public static void main(String[] args) {
 		// 1. 

@@ -1,6 +1,6 @@
 package com.example.programmers.level_0;
 
-public class 문자열뒤의n글자 {
+public class 문자열뒤의n글자_1 {
 
 	public static void main(String[] args) {
 		String my_string = "ProgrammerS123";
